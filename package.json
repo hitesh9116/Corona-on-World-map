@@ -1,0 +1,22 @@
+{
+  "name": "corona-on-world-map",
+  "version": "1.0.0",
+  "description": "This webpage gives automatic live updates on the total no of Corona infectants throughout the World.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitesh911/Corona-On-World-Map.git"
+  },
+  "keywords": [
+    "Total_corona_infectants_today"
+  ],
+  "author": "Hitesh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitesh911/Corona-On-World-Map/issues"
+  },
+  "homepage": "https://github.com/hitesh911/Corona-On-World-Map#readme"
+}
